@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+~$*
+/results/*
+!/results/batch_20261123_215924_544153/
